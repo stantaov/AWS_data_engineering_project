@@ -1,0 +1,6 @@
+FROM puckel/docker-airflow:1.10.9
+
+RUN pip install boto3
+RUN pip install --upgrade pip
+
+ENV PATH="$PATH:/usr/local/airflow/.local/bin"
