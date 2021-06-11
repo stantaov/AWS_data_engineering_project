@@ -1,3 +1,3 @@
 ### Midterm project
 
-<img src="process.jpg">
+<img src="data pipeline diagram.jpg">
